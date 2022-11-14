@@ -1,11 +1,11 @@
-# EternityOS #
+# Fork-EternityOS #
 
 ### Sync ###
 
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/EternityOS-Plus-Tiramisu/manifest -b 13
+repo init -u https://github.com/Fork-EternityOS/manifest -b 13
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
