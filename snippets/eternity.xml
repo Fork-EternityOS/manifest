@@ -46,7 +46,7 @@
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="eternity" />
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="eternity" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="eternity" />
-  <project path="packages/apps/EternitySettings" name="packages_apps_EternitySettings" remote="eternity" />
+  <project path="packages/apps/EternitySettings" name="packages_apps_EternitySettings" remote="fork-eternity" />
 
   <!-- Vendor repos -->
   <project path="vendor/aosp" name="vendor_aosp" remote="fork-eternity" />
